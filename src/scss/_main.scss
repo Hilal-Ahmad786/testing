@@ -1,0 +1,25 @@
+/*
+    Name: Serfix 
+    Author: ThemeTrades
+    Portfolio : https://themeforest.net/user/themetrades/portfolio
+   
+
+    Table of Content: 
+
+    1. Abstract
+    2. Bootstrap CSS
+    3. Base
+    4. Layout
+    5. Component
+    7. Pages
+    
+    
+*/
+
+@import "./abstract/abstract";
+@import "bootstrap/scss//bootstrap.scss";
+@import "./base/base";
+@import "./components/components";
+@import "./pages/pages";
+@import "./layout/layout";
+@import "./shortcodes/shortcodes";
